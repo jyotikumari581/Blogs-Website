@@ -2,11 +2,11 @@
 # Blogs Website Wordpress
 
 ### Homepage View
-![](https://raw.githubusercontent.com/boffincoders/blogs-website/main/homepage.png?token=GHSAT0AAAAAACDUYCJSNDQBO2UF6QQJ7L5GZEBO3KQ) 
+![](https://raw.githubusercontent.com/jyotikumari581/Blogs-Website/homepage.png) 
  
  <br/>
  
 ### Category Page View 
-![](https://raw.githubusercontent.com/boffincoders/blogs-website/main/category.png?token=GHSAT0AAAAAACDUYCJSEXWXEQGHZEF4QUM6ZEBOZFA) 
+![](https://raw.githubusercontent.com/jyotikumari581/Blogs-Website/category.png) 
 
  
