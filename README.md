@@ -1,5 +1,5 @@
 
-# Blogs Website Wordpress
+# Filter Blog posts by multiple categories and tags in Wordpress
 
 ### Homepage View
 ![](https://github.com/jyotikumari581/Blogs-Website/blob/main/homepage.png) 
