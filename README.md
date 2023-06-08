@@ -2,11 +2,11 @@
 # Blogs Website Wordpress
 
 ### Homepage View
-![](https://raw.githubusercontent.com/jyotikumari581/Blogs-Website/homepage.png) 
+![](https://github.com/jyotikumari581/Blogs-Website/blob/main/homepage.png) 
  
  <br/>
  
 ### Category Page View 
-![](https://raw.githubusercontent.com/jyotikumari581/Blogs-Website/category.png) 
+![](https://github.com/jyotikumari581/Blogs-Website/blob/main/category.png) 
 
  
